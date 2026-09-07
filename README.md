@@ -2,7 +2,10 @@
 
 <div align="center">
 
-<img src="https://github.com/SP-XD/SP-XD/blob/main/images/hellocoders_rounded.gif?raw=true" width="60%" alt="welcome'/>
+<p align="center">
+  <img src="./banner.png" width="100%" alt="Rimas GitHub Banner">
+</p>
+
 
 <h1 align="center">Hi 👋, I'm Rimas</h1>
 
