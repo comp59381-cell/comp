@@ -2,10 +2,6 @@
 
 <div align="center">
 
-<p align="center">
-  <img src="./banner.png" width="60%" alt="Rimas GitHub Banner">
-</p>
-
 
 <h1 align="center">Hi 👋, I'm Rimas</h1>
 
