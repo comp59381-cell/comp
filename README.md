@@ -3,7 +3,7 @@
 <div align="center">
 
 <p align="center">
-  <img src="./banner.png" width="100%" alt="Rimas GitHub Banner">
+  <img src="./banner.png" width="60%" alt="Rimas GitHub Banner">
 </p>
 
 
