@@ -1,6 +1,6 @@
 ![Header](./Github-Banner-Image.png)
 
-<div align="center">
+
 
 
 <h1 align="center">Hi 👋, I'm Rimas</h1>
